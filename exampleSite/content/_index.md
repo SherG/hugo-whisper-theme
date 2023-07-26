@@ -1,6 +1,6 @@
 ---
-title: 'Hugo Whisper Docs'
+title: 'Looking for RuralNH.org?'
 date: 2018-11-28T15:14:39+10:00
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+We're migrating to a new platform. Hold tight and we'll be back online soon.
